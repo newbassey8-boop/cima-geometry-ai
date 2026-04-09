@@ -57,7 +57,7 @@ It processes raw images, identifies geometric shapes, and exports structured met
 
 ## Purpose
 
-Designed to simulate dataset generation for AI training by converting raw visual input into labeled geometric data.
+Designed to simulate data generation for AI training by converting raw visual input into labeled geometric data.
 
 ---
 
